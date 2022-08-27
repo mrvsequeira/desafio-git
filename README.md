@@ -1,5 +1,4 @@
-# Repositorio do Desafio de Git e GitHub para DIO
+# Repositorio criado para o 1 Desafio do Bootcamp Linux
 
-
-## Links Uteis
-[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
+Aqui vou trazer alguns dos comandos em terminal que mais utilizei.
+Acredito que a pãgian estara em constante construcao, rs
