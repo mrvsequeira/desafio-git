@@ -1,0 +1,21 @@
+# Algumas diferencas de comandos entre terminais:
+
+Windows     | Unix
+-----------------------
+- cd 	    | - cd
+- dir       | - ls
+- mkdir     | - mkdir
+- del/rmdir | - rm/- rf
+
+
+# -cd ( change directory )
+Comanda para sair e entrar de diretorios.
+
+# -dir / -ls ( directory / list )
+Comando para listar os arquivos contidos em um diretorio.
+
+# -mkdir ( make directory )
+Comando para criar um novo diretorio.
+
+# -del / -rmdir / -rm -rf ( delete / remove directory / remove responsive force )
+Comando para excluir diretorios ou arquivos.
