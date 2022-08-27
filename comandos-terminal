@@ -2,7 +2,7 @@
 
 Windows     | Unix
 ----------- | ---------
-- cd 	      | - cd
+- cd 	    | - cd
 - dir       | - ls
 - mkdir     | - mkdir
 - del/rmdir | - rm/- rf
